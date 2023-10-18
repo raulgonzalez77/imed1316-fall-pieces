@@ -1,0 +1,28 @@
+      <!-- Begin Google Icons-->
+      <div class="container text-center top-logo">
+        <div class="row">
+          <div class="col-12 col-md-6">
+            <span class="material-symbols-outlined">
+              <a href="/gallery.html">video_camera_front</a>
+            </span>
+            <span class="material-symbols-outlined">
+              <a
+                data-bs-toggle="offcanvas"
+                href="#offcanvasExample"
+                role="button"
+                aria-controls="offcanvasExample"
+              >
+                menu
+              </a>
+            </span>
+          </div>
+          <div class="col-12 col-md-6">
+            <!--<span id="my-google-font">Raul's Bridal</span>-->
+            <span id="my-google-font">YOUR WEBSITE LOGO</span>
+
+            <br />
+            <span id="top-logo-small">SMALL NARRATIVE</span>
+          </div>
+        </div>
+      </div>
+      <!-- Google Icons End -->

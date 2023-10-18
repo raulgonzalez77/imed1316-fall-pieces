@@ -1,0 +1,53 @@
+      <!-- Begin Offcanvas -->
+      <div
+        class="offcanvas offcanvas-start"
+        tabindex="-1"
+        id="offcanvasExample"
+        aria-labelledby="offcanvasExampleLabel"
+      >
+        <div class="offcanvas-header">
+          <h5 class="offcanvas-title" id="offcanvasExampleLabel">
+            YOUR WEBSITE TITLE
+          </h5>
+          <button
+            type="button"
+            class="btn-close"
+            data-bs-dismiss="offcanvas"
+            aria-label="Close"
+          ></button>
+        </div>
+        <div class="offcanvas-body">
+          <div class="text-center">
+            <div class="spokesperson">
+              <img
+                alt="Spokesperson"
+                class="cropped-offcanvas"
+                src="/images/square/spokesperson.jpg"
+              />
+            </div>
+            <br />
+            <blockquote>
+              Thanks you Raul for going out of your way to help me pick up the
+              perferct dress and then changing the oil of my car!
+              <cite>Rossie Williams</cite>
+            </blockquote>
+
+            <a
+              class="btn btn-outline-primary btn-offcanvas-left"
+              href="gallery.html"
+              >Gallery</a
+            >
+            <a
+              class="btn btn-outline-primary btn-offcanvas-left"
+              href="participation-form.html"
+              >Participation Form</a
+            >
+            <a
+              class="btn btn-outline-primary btn-offcanvas-left"
+              href="schedule.html"
+              >Events Schedule</a
+            >
+          </div>
+        </div>
+      </div>
+      <!-- End Offcanvas -->

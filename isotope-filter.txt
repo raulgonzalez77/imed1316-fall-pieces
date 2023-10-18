@@ -1,0 +1,267 @@
+
+      <!-- begin isotope and fanycapp-->
+      <div class="container isotope-filter">
+        <h2>Products and Services</h2>
+
+        <!-- begin filter buttons -->
+        <div class="button-group filters-button-group">
+          <button
+            class="button is-checked btn-isotope btn btn-success"
+            data-filter="*"
+          >
+            Show All
+          </button>
+          <button
+            class="button is-checked btn-isotope btn btn-primary"
+            data-filter=".jewlery"
+          >
+            Jewlery
+          </button>
+          <button
+            class="button is-checked btn-isotope btn btn-primary"
+            data-filter=".clothing"
+          >
+            Clothing
+          </button>
+          <button
+            class="button is-checked btn-isotope btn btn-primary"
+            data-filter=".events"
+          >
+            Events
+          </button>
+        </div>
+        <!-- end filter buttons -->
+
+        <div class="row">
+          <!-- grid begins -->
+          <div class="grid">
+            <div
+              class="col-12 col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4"
+            >
+              <!-- card -->
+              <div class="card element-item jewlery" style="width: 18rem;">
+                <img
+                  src="/images/cards/card-1.jpg"
+                  class="card-img-top"
+                  alt="Hands showing a wedding ring"
+                />
+
+                <div class="card-body">
+                  <h5 class="card-title"><a href="#">Wedding Ring</a></h5>
+                  <p class="card-text">
+                    Find the perfect symbol of your love. Discover eternity
+                    diamond rings.
+                  </p>
+                  <!-- <a href="#" class="btn btn-primary">Go somewhere</a> -->
+                  <div class="card-share-icons">
+                    <i class="fa-regular fa-share-from-square"></i>
+                    <i class="fa-regular fa-envelope"></i>
+                    <i class="fa-regular fa-heart"></i>
+                    <i class="fa-regular fa-thumbs-up"></i>
+                  </div>
+                </div>
+              </div>
+              <!-- card -->
+            </div>
+
+            <div
+              class="col-12 col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4"
+            >
+              <!-- card -->
+              <div class="card element-item clothing" style="width: 18rem;">
+                <img
+                  src="/images/cards/card-2.jpg"
+                  class="card-img-top"
+                  alt="Couple celebrating wedding"
+                />
+
+                <div class="card-body">
+                  <h5 class="card-title"><a href="#">Wedding Dresses</a></h5>
+                  <p class="card-text">
+                    Embellished and off shoulder looks have been very popular.
+                  </p>
+                  <div class="card-share-icons">
+                    <i class="fa-regular fa-share-from-square"></i>
+                    <i class="fa-regular fa-envelope"></i>
+                    <i class="fa-regular fa-heart"></i>
+                    <i class="fa-regular fa-thumbs-up"></i>
+                  </div>
+                </div>
+              </div>
+              <!-- card -->
+            </div>
+
+            <div
+              class="col-12 col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4"
+            >
+              <!-- card -->
+              <div class="card element-item events" style="width: 18rem;">
+                <img
+                  src="/images/cards/card-3.jpg"
+                  class="card-img-top"
+                  alt="Couple in rehersal party"
+                />
+
+                <div class="card-body">
+                  <h5 class="card-title"><a href="#">Rehersal Weddings</a></h5>
+                  <p class="card-text">
+                    Our Huge Collection Of Rehearsal Invites Make Party Planning
+                    Easy Whatever Your Budget!
+                  </p>
+                  <div class="card-share-icons">
+                    <i class="fa-regular fa-share-from-square"></i>
+                    <i class="fa-regular fa-envelope"></i>
+                    <i class="fa-regular fa-heart"></i>
+                    <i class="fa-regular fa-thumbs-up"></i>
+                  </div>
+                </div>
+              </div>
+              <!-- card -->
+            </div>
+
+            <div
+              class="col-12 col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4"
+            >
+              <!-- card -->
+              <div class="card element-item jewlery" style="width: 18rem;">
+                <img
+                  src="/images/cards/card-5.jpg"
+                  class="card-img-top"
+                  alt="Couple deciding on new necless gift"
+                />
+
+                <div class="card-body">
+                  <h5 class="card-title"><a href="#">Neckless</a></h5>
+                  <p class="card-text">
+                    From charms to wear every day to sparkling precious
+                    gemstones. Styles for every occasion.
+                  </p>
+                  <div class="card-share-icons">
+                    <i class="fa-regular fa-share-from-square"></i>
+                    <i class="fa-regular fa-envelope"></i>
+                    <i class="fa-regular fa-heart"></i>
+                    <i class="fa-regular fa-thumbs-up"></i>
+                  </div>
+                </div>
+              </div>
+              <!-- card -->
+            </div>
+
+            <div
+              class="col-12 col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4"
+            >
+              <!-- card -->
+              <div class="card element-item clothing" style="width: 18rem;">
+                <img
+                  src="/images/cards/card-8.jpg"
+                  class="card-img-top"
+                  alt="Bridsmaids modeling dresses"
+                />
+
+                <div class="card-body">
+                  <h5 class="card-title">
+                    <a href="#">Bridesmaids Dresses</a>
+                  </h5>
+                  <p class="card-text">
+                    We know it takes a village of your closest friends and
+                    family to complete your special day.
+                  </p>
+                  <div class="card-share-icons">
+                    <i class="fa-regular fa-share-from-square"></i>
+                    <i class="fa-regular fa-envelope"></i>
+                    <i class="fa-regular fa-heart"></i>
+                    <i class="fa-regular fa-thumbs-up"></i>
+                  </div>
+                </div>
+              </div>
+              <!-- card -->
+            </div>
+
+            <div
+              class="col-12 col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4"
+            >
+              <!-- card -->
+              <div class="card element-item jewlery" style="width: 18rem;">
+                <img
+                  src="/images/cards/card-4.jpg"
+                  class="card-img-top"
+                  alt="Bride with new hearings"
+                />
+
+                <div class="card-body">
+                  <h5 class="card-title"><a href="#">Earrnigs</a></h5>
+                  <p class="card-text">
+                    See our breathtaking chick classics pieces collection for
+                    special occasions.
+                  </p>
+                  <div class="card-share-icons">
+                    <i class="fa-regular fa-share-from-square"></i>
+                    <i class="fa-regular fa-envelope"></i>
+                    <i class="fa-regular fa-heart"></i>
+                    <i class="fa-regular fa-thumbs-up"></i>
+                  </div>
+                </div>
+              </div>
+              <!-- card -->
+            </div>
+
+            <div
+              class="col-12 col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4"
+            >
+              <!-- card -->
+              <div class="card element-item jewlery" style="width: 18rem;">
+                <img
+                  src="/images/cards/card-7.jpg"
+                  class="card-img-top"
+                  alt="Bridesmaid with new bracelet"
+                />
+
+                <div class="card-body">
+                  <h5 class="card-title"><a href="#">Bracelets</a></h5>
+                  <p class="card-text">
+                    Discover dazzling diamond tennis, distinctive sapphire, and
+                    delicate silver bracelets..
+                  </p>
+                  <div class="card-share-icons">
+                    <i class="fa-regular fa-share-from-square"></i>
+                    <i class="fa-regular fa-envelope"></i>
+                    <i class="fa-regular fa-heart"></i>
+                    <i class="fa-regular fa-thumbs-up"></i>
+                  </div>
+                </div>
+              </div>
+              <!-- card -->
+            </div>
+
+            <div
+              class="col-12 col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4"
+            >
+              <!-- card -->
+              <div class="card element-item clothing" style="width: 18rem;">
+                <img
+                  src="/images/cards/card-6.jpg"
+                  class="card-img-top"
+                  alt="Groom with new tuxedo"
+                />
+
+                <div class="card-body">
+                  <h5 class="card-title"><a href="#">Tuxedos</a></h5>
+                  <p class="card-text">
+                    Custom tailored menswear tuxedos ready in as little as 14
+                    days. We'll find a Tuxedo that's Perfect for You.
+                  </p>
+                  <div class="card-share-icons">
+                    <i class="fa-regular fa-share-from-square"></i>
+                    <i class="fa-regular fa-envelope"></i>
+                    <i class="fa-regular fa-heart"></i>
+                    <i class="fa-regular fa-thumbs-up"></i>
+                  </div>
+                </div>
+              </div>
+              <!-- card -->
+            </div>
+          </div>
+          <!-- end grid -->
+        </div>
+      </div>
+      <!-- end isotope and fanycapp-->

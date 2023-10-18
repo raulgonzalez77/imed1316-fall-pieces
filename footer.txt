@@ -1,0 +1,213 @@
+      <!-- begin footer-->
+      <div class="container-fluid text-center footer-row">
+        <!-- footer row large - experimental -->
+        <div class="row footer-row-large">
+          <div
+            class="col-12 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-2 col-xxl-2"
+          >
+            <div class="footer-row-dropdown dropdown">
+              <a
+                class="btn btn-secondary dropdown-toggle"
+                href="#"
+                role="button"
+                data-bs-toggle="dropdown"
+                aria-expanded="false"
+              >
+                Just For Her
+              </a>
+
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="#">Shoes</a></li>
+                <li><a class="dropdown-item" href="#">Dressess</a></li>
+                <li>
+                  <a class="dropdown-item" href="#">Jewlery</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+
+          <div
+            class="col-12 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-2 col-xxl-2"
+          >
+            <div class="footer-row-dropdown dropdown">
+              <a
+                class="btn btn-secondary dropdown-toggle"
+                href="#"
+                role="button"
+                data-bs-toggle="dropdown"
+                aria-expanded="false"
+              >
+                Just For Him
+              </a>
+
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="#">Shoes</a></li>
+                <li><a class="dropdown-item" href="#">Dressess</a></li>
+                <li>
+                  <a class="dropdown-item" href="#">Jewlery</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+
+          <div
+            class="col-12 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-2 col-xxl-2"
+          >
+            <div class="footer-row-dropdown dropdown">
+              <a
+                class="btn btn-secondary dropdown-toggle"
+                href="#"
+                role="button"
+                data-bs-toggle="dropdown"
+                aria-expanded="false"
+              >
+                For Both
+              </a>
+
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="#">Shoes</a></li>
+                <li><a class="dropdown-item" href="#">Dressess</a></li>
+                <li>
+                  <a class="dropdown-item" href="#">Jewlery</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+
+          <div
+            class="col-12 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-2 col-xxl-2"
+          >
+            <div class="footer-row-dropdown dropdown">
+              <a
+                class="btn btn-secondary dropdown-toggle"
+                href="#"
+                role="button"
+                data-bs-toggle="dropdown"
+                aria-expanded="false"
+              >
+                For Bridesmaids
+              </a>
+
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="#">Shoes</a></li>
+                <li><a class="dropdown-item" href="#">Dressess</a></li>
+                <li>
+                  <a class="dropdown-item" href="#">Jewlery</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+
+          <div
+            class="col-12 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-2 col-xxl-2"
+          >
+            <div class="footer-row-dropdown dropdown">
+              <a
+                class="btn btn-secondary dropdown-toggle"
+                href="#"
+                role="button"
+                data-bs-toggle="dropdown"
+                aria-expanded="false"
+              >
+                For Parents
+              </a>
+
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="#">Shoes</a></li>
+                <li><a class="dropdown-item" href="#">Dressess</a></li>
+                <li>
+                  <a class="dropdown-item" href="#">Jewlery</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+
+          <div
+            class="col-12 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-2 col-xxl-2"
+          >
+            <div class="footer-row-dropdown dropdown">
+              <a
+                class="btn btn-secondary dropdown-toggle"
+                href="#"
+                role="button"
+                data-bs-toggle="dropdown"
+                aria-expanded="false"
+              >
+                For Guests
+              </a>
+
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="#">Shoes</a></li>
+                <li><a class="dropdown-item" href="#">Dressess</a></li>
+                <li>
+                  <a class="dropdown-item" href="#">Jewlery</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-12 text-center">
+            <img src="/images/logo.png" alt="Logo" />
+            <br /><span id="bottom-logo-small">...and oil change</span>
+          </div>
+        </div>
+        <!-- footer row large - experimental -->
+
+        <div class="row">
+          <div
+            class="col-6 col-xs-6 col-sm-6 col-md-4 col-lg-2 col-xl-2 col-xxl-2"
+          >
+            <a href="#">Bridesmaid Dresses</a>
+          </div>
+
+          <div
+            class="col-6 col-xs-6 col-sm-6 col-md-4 col-lg-2 col-xl-2 col-xxl-2"
+          >
+            <a href="#">Dresses for Mom</a>
+          </div>
+
+          <div
+            class="col-6 col-xs-6 col-sm-6 col-md-4 col-lg-2 col-xl-2 col-xxl-2"
+          >
+            <a href="#">Wedding Dresses</a>
+          </div>
+
+          <div
+            class="col-6 col-xs-6 col-sm-6 col-md-4 col-lg-2 col-xl-2 col-xxl-2"
+          >
+            <a href="#">Tuxedos & Suits</a>
+          </div>
+
+          <div
+            class="col-6 col-xs-6 col-sm-6 col-md-4 col-lg-2 col-xl-2 col-xxl-2"
+          >
+            <a href="#">Veils & Hair Items</a>
+          </div>
+
+          <div
+            class="col-6 col-xs-6 col-sm-6 col-md-4 col-lg-2 col-xl-2 col-xxl-2"
+          >
+            <a href="#">Shoes</a>
+          </div>
+        </div>
+        <hr />
+        <div class="row">
+          <div class="col-12">
+            <a href="http://www.facebook.com">
+              <i class="fa-brands fa-facebook fa-social-media"></i>
+            </a>
+
+            <a href="https://www.instagram.com">
+              <i class="fa-brands fa-instagram fa-social-media"></i>
+            </a>
+
+            <a href="https://www.twitter.com">
+              <i class="fa-brands fa-twitter fa-social-media"></i>
+            </a>
+
+            <a href="https://www.youtube.com">
+              <i class="fa-brands fa-youtube fa-social-media"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+      <!-- end footer-->

@@ -1,0 +1,35 @@
+      <!-- begin second paragraph section-->
+      <div class="container second-paragraph-div">
+        <div class="row">
+          <div class="col-12">
+            <img
+              src="/images/square/paragraph-2.jpg"
+              alt="Olivia and Benjamin"
+              class="img-reponsive second-paragraph-img"
+            />
+            <h2>Olivia and Benjamin</h2>
+            <p>
+              Olivia and Benjamin are a couple whose love story is rooted in
+              friendship, laughter, and a deep connection. They are best friends
+              who have found their soulmates in each other. Olivia's bubbly
+              personality and infectious energy bring a sense of excitement to
+              their relationship, while Benjamin's caring and nurturing nature
+              make him the pillar of support she can always count on. They enjoy
+              simple pleasures in life, such as cozy movie nights, long walks in
+              nature, and spending quality time with loved ones. Their wedding
+              will be a heartfelt celebration of their enduring love and the joy
+              they bring to each other's lives.
+            </p>
+            <p>
+              They are often found exploring art galleries, attending live music
+              performances, or immersing themselves in the world of literature.
+            </p>
+            <p>
+              Their wedding promises to be a unique and artistic celebration,
+              filled with personal touches, live performances, and a reflection
+              of their creative souls.
+            </p>
+          </div>
+        </div>
+      </div>
+      <!-- end second paragraph section-->

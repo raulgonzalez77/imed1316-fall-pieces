@@ -1,0 +1,54 @@
+      <!-- Begin First Font Awesome Icons -->
+      <div class="container-fluid text-center fa-row">
+        <div class="row">
+          <div
+            class="col-6 col-xs-6 col-sm-6 col-md-4 col-lg-2 col-xl-2 col-xxl-2"
+          >
+            <a href="#">
+              <i class="fa-solid fa-cake-candles fa-row-icon"></i>
+              <br />Cakes</a
+            >
+          </div>
+          <div
+            class="col-6 col-xs-6 col-sm-6 col-md-4 col-lg-2 col-xl-2 col-xxl-2"
+          >
+            <a href="#">
+              <i class="fa-solid fa-church fa-row-icon"></i>
+              <br />Religious Ceremony</a
+            >
+          </div>
+          <div
+            class="col-6 col-xs-6 col-sm-6 col-md-4 col-lg-2 col-xl-2 col-xxl-2"
+          >
+            <a href="#">
+              <i class="fa-solid fa-heart fa-row-icon"></i>
+              <br />Wedding Vows</a
+            >
+          </div>
+          <div
+            class="col-6 col-xs-6 col-sm-6 col-md-4 col-lg-2 col-xl-2 col-xxl-2"
+          >
+            <a href="#">
+              <i class="fa-solid fa-gifts fa-row-icon"></i>
+              <br />Gifts</a
+            >
+          </div>
+          <div
+            class="col-6 col-xs-6 col-sm-6 col-md-4 col-lg-2 col-xl-2 col-xxl-2"
+          >
+            <a href="#">
+              <i class="fa-solid fa-people-roof fa-row-icon"></i>
+              <br />Reception</a
+            >
+          </div>
+          <div
+            class="col-6 col-xs-6 col-sm-6 col-md-4 col-lg-2 col-xl-2 col-xxl-2"
+          >
+            <a href="#">
+              <i class="fa-solid fa-users-rectangle fa-row-icon"></i>
+              <br />Invitations</a
+            >
+          </div>
+        </div>
+      </div>
+      <!-- End First Font Awesome Icons -->

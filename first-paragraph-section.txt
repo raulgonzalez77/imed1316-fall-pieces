@@ -1,0 +1,34 @@
+      <!-- begin first paragraph section-->
+      <div class="container first-paragraph-div">
+        <div class="row">
+          <div class="col-12">
+            <img
+              src="/images/square/paragraph-1.jpg"
+              alt="A Couple Posing for Wedding Photo"
+              class="img-reponsive first-paragraph-img"
+            />
+            <h2>Emma and Michael</h2>
+            <p>
+              Emma and Michael are a charismatic and adventurous couple who are
+              ready to embark on their lifelong journey together. Emma's vibrant
+              personality and infectious laughter light up any room she enters,
+              while Michael's calm and composed nature brings a sense of
+              stability to their relationship. They share a passion for
+              exploring the world, trying new cuisines, and seeking thrilling
+              adventures. With their love for each other and their zest for
+              life, their wedding promises to be a celebration filled with joy,
+              laughter, and unforgettable moments.
+            </p>
+            <p>
+              They appreciate the finer things in life and have a deep
+              appreciation for art, culture, and literature.
+            </p>
+            <p>
+              Their wedding promises to be a refined affair, with an emphasis on
+              sophisticated details, heartfelt speeches, and a celebration of
+              their deep love and shared passions.
+            </p>
+          </div>
+        </div>
+      </div>
+      <!-- end first paragraph section-->
